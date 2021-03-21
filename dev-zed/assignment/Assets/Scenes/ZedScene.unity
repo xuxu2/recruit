@@ -242,10 +242,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 184487741}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cbbd6cb2c4bb03a4ebb5d4003010d193, type: 3}
+  m_Script: {fileID: 11500000, guid: 95621f1984bb0034790426245ee1e28e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  meshes: []
   material: {fileID: 0}
 --- !u!114 &184487743
 MonoBehaviour:
@@ -259,6 +258,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95621f1984bb0034790426245ee1e28e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  material: {fileID: 0}
 --- !u!4 &184487744
 Transform:
   m_ObjectHideFlags: 0
